@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0607-sales-person](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0607-sales-person) |
 ## Array
 |  |
 | ------- |
