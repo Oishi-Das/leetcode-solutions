@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Oishi-Das/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Oishi-Das/leetcode-solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/Oishi-Das/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 ## Array
 |  |
 | ------- |
