@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1158-market-analysis-i](https://github.com/Oishi-Das/leetcode-solutions/tree/master/1158-market-analysis-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Oishi-Das/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1179-reformat-department-table](https://github.com/Oishi-Das/leetcode-solutions/tree/master/1179-reformat-department-table) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Oishi-Das/leetcode-solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 ## Array
 |  |
 | ------- |
