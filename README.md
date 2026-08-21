@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Oishi-Das/leetcode-solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/Oishi-Das/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Oishi-Das/leetcode-solutions/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/Oishi-Das/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 ## Array
 |  |
 | ------- |
