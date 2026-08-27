@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3220-odd-and-even-transactions](https://github.com/Oishi-Das/leetcode-solutions/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/Oishi-Das/leetcode-solutions/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/Oishi-Das/leetcode-solutions/tree/master/3436-find-valid-emails) |
+| [3451-find-invalid-ip-addresses](https://github.com/Oishi-Das/leetcode-solutions/tree/master/3451-find-invalid-ip-addresses) |
 ## Array
 |  |
 | ------- |
