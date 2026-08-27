@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3554-find-category-recommendation-pairs](https://github.com/Oishi-Das/leetcode-solutions/tree/master/3554-find-category-recommendation-pairs) |
 | [3570-find-books-with-no-available-copies](https://github.com/Oishi-Das/leetcode-solutions/tree/master/3570-find-books-with-no-available-copies) |
 | [3580-find-consistently-improving-employees](https://github.com/Oishi-Das/leetcode-solutions/tree/master/3580-find-consistently-improving-employees) |
+| [3586-find-covid-recovery-patients](https://github.com/Oishi-Das/leetcode-solutions/tree/master/3586-find-covid-recovery-patients) |
 ## Array
 |  |
 | ------- |
