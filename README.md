@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3436-find-valid-emails](https://github.com/Oishi-Das/leetcode-solutions/tree/master/3436-find-valid-emails) |
 | [3451-find-invalid-ip-addresses](https://github.com/Oishi-Das/leetcode-solutions/tree/master/3451-find-invalid-ip-addresses) |
 | [3475-dna-pattern-recognition](https://github.com/Oishi-Das/leetcode-solutions/tree/master/3475-dna-pattern-recognition) |
+| [3482-analyze-organization-hierarchy](https://github.com/Oishi-Das/leetcode-solutions/tree/master/3482-analyze-organization-hierarchy) |
 ## Array
 |  |
 | ------- |
