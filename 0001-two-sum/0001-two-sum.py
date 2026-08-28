@@ -6,9 +6,9 @@ class Solution(object):
         :rtype: List[int]
         """
         seen = {}
-        for i in range(len(nums)) :
-            curr = nums [i]
-            need = target - curr 
-            if need in seen :
-                return [seen[need] , i ]
-            seen[curr] = i 
+        for i , num in enumerate (nums ):
+            complement = target - num 
+            if complement in seen :
+                return [seen[complement] , i]
+            seen[num] = i
+        
