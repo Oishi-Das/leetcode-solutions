@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Oishi-Das/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
@@ -227,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Oishi-Das/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
