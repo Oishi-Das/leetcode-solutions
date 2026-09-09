@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0973-k-closest-points-to-origin](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Oishi-Das/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0268-missing-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -276,14 +280,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
