@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
@@ -330,4 +333,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
