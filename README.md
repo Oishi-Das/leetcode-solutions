@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0986-interval-list-intersections) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Oishi-Das/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Oishi-Das/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
 |  |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -380,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
