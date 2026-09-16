@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0986-interval-list-intersections) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0645-set-mismatch](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0904-fruit-into-baskets](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Oishi-Das/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Oishi-Das/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Oishi-Das/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Oishi-Das/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Queue
 |  |
